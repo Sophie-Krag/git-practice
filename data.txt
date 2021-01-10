@@ -1,0 +1,3 @@
+Name: Sophie Krag
+Age: 28
+Favorite color: green
